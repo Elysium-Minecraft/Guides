@@ -33,7 +33,7 @@ You can create a shop to sell items to players using the format below:
 
 > 4: Sell
 
-![d](https://imgur.com/EC3fbp7.gif)
+![d](https://imgur.com/MrWfFG6.png)
 
 After pressing done on the sign, the shop will give you the opportunity to select what item you want to sell to players.
 Simply hit the sign with the item you want to sell.
@@ -49,10 +49,14 @@ You can create a shop to buy items from players using the format below:
 
 > 4: Buy
 
-![d](https://imgur.com/3T8HKPL.gif)
+![d](https://imgur.com/PcHLZjJ.png)
 
 After pressing done on the sign, the shop will give you the opportunity to select what item you want to buy from players.
 Simply hit the sign with the item you want to buy.
+
+If you wish to prevent players from selling too many items too you and potentially draining your money, fill up excess slots in the chest with other junk items.
+
+E.g. If you only wanted to buy at most 9 stacks of an item, fill the other 18 slots up with items, the shop will not be able to accept any more items beyond the slot limit, stopping players from filling the chest up entirely.
 
 
 #### **Combination Chest (Selling & Buying)**
@@ -66,7 +70,7 @@ You can combine the selling and buying chests types together in one chest using 
 
 > 4: Combo
 
-![d](https://imgur.com/KuUUOPz.gif)
+![d](https://imgur.com/Q6cLeHa.png)
 
 On the third line, you must specify 2 values, one for how much you wish to sell, and one for how much you wish to buy items for.
 The left most value is the buy value, the right most value is the sell value.
@@ -87,7 +91,7 @@ You can set up chests to trade any amount of one item for any amount of another 
 
 > 4: Barter
 
-![d](https://imgur.com/mepVkNc.gif)
+![d](https://imgur.com/EWQCakt.png)
 
 After pressing done on the sign, the shop will give you the opportunity to select what two items you want to trade.
 The first item you hit the sign with is the item you want, the second item you hit the sign with is the item you will give the player.
