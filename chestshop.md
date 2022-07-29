@@ -33,7 +33,7 @@ You can create a shop to sell items to players using the format below:
 
 > 4: Sell
 
-![d](/Users/lukethadley/Desktop/Elysium/Guides/sell.gif)
+![d](https://imgur.com/EC3fbp7.gif)
 
 After pressing done on the sign, the shop will give you the opportunity to select what item you want to sell to players.
 Simply hit the sign with the item you want to sell.
@@ -49,7 +49,7 @@ You can create a shop to buy items from players using the format below:
 
 > 4: Buy
 
-![d](/Users/lukethadley/Desktop/Elysium/Guides/buy.gif)
+![d](https://imgur.com/3T8HKPL.gif)
 
 After pressing done on the sign, the shop will give you the opportunity to select what item you want to buy from players.
 Simply hit the sign with the item you want to buy.
@@ -66,7 +66,7 @@ You can combine the selling and buying chests types together in one chest using 
 
 > 4: Combo
 
-![d](/Users/lukethadley/Desktop/Elysium/Guides/combo.gif)
+![d](https://imgur.com/KuUUOPz.gif)
 
 On the third line, you must specify 2 values, one for how much you wish to sell, and one for how much you wish to buy items for.
 The left most value is the buy value, the right most value is the sell value.
@@ -87,7 +87,7 @@ You can set up chests to trade any amount of one item for any amount of another 
 
 > 4: Barter
 
-![d](/Users/lukethadley/Desktop/Elysium/Guides/barter.gif)
+![d](https://imgur.com/mepVkNc.gif)
 
 After pressing done on the sign, the shop will give you the opportunity to select what two items you want to trade.
 The first item you hit the sign with is the item you want, the second item you hit the sign with is the item you will give the player.
